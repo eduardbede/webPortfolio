@@ -35,7 +35,8 @@ export default function Navigation(props){
                         transition={{ ease: [0.1, 0.25, 0.3, 1], duration: 0.5, delay:0.2 }}
                         className="navFull bg-myBlue h-20 flex justify-between items-center text-mySecondBlue fixed top-0 left-0 right-0 bg-opacity-90 backdrop-blur-sm">{/*  bg-opacity-90 backdrop-blur-sm */}
                     <motion.div initial={{y:-100}}
-                                animate={{y:0}}>
+                                animate={{y:0}}
+                                className="pl-2 pt-2">
                     {/* <motion.div initial={{x:0}}
                                 animate={{x:20}}
                                 className="border border-b-mySecondBlue rounded-full w-10 h-10 md:w-16 md:h-16 flex justify-center items-center md:text-2xl"

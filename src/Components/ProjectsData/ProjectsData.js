@@ -49,8 +49,17 @@ import etchASketch_1 from '../../img/EtchASketch/EtchASketch_1.png'
 export default function ProjectsData(){
       
 const projects=[
+  {
+    id:1,
+    title:"Web Dev Portfolio",
+    link: "https://eduardbede.github.io/webPortofolio/",
+    text : <div>Portfolio presentation site build <span className='text-mySecondBlue'>React.JS</span> and <span className='text-mySecondBlue'>Tailwind</span>. 
+            </div>
+    },
+
+
     {
-        id:1,
+        id:2,
         title: "Weather App",
         images:[
             {
@@ -74,7 +83,7 @@ const projects=[
         },
 
         {
-        id:2,
+        id:3,
         title: "Phone Service And Sales",
         images:[
                 {
@@ -112,7 +121,7 @@ const projects=[
         },
 
         {
-        id:3,
+        id:4,
         title: "Books Library",
         images:[
             {
@@ -133,7 +142,7 @@ const projects=[
         },
 
         {
-        id:4,
+        id:5,
         title: "Tic Tac Toe",
         images:[
             {
@@ -153,7 +162,7 @@ const projects=[
         },
 
         {
-        id:5,
+        id:6,
         title: "Rock Paper Scissors",
         images:[
             {
@@ -175,7 +184,7 @@ const projects=[
           },
 
           {
-          id:6,
+          id:7,
           title: "Calculator",
           images:[
               {
@@ -193,7 +202,7 @@ const projects=[
           },
 
           {
-          id:7,
+          id:8,
           title: "Sign In and Log In Pages",
           images:[
             {
@@ -218,7 +227,7 @@ const projects=[
           },
 
           {
-          id:8,
+          id:9,
           title: "Admin Dashboard",
           images:[
             {
@@ -234,7 +243,7 @@ const projects=[
           },
 
           {
-          id:9,
+          id:10,
           title: "Etch a Sketch",
           images:[
             {
