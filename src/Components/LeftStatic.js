@@ -32,7 +32,7 @@ export default function LeftStatic(){
                                 animate={{y:0}}
                                 transition={transition.one}
                                 whileHover={{y:-5, color:"#60f7d3"}}>
-                                <button><VscGithubInverted size={'1.5em'}/></button>
+                                <button><a href="https://github.com/eduardbede"><VscGithubInverted size={'1.5em'}/></a></button>
                             </motion.li>
                             
                             <motion.li className="active:text-mySecondBlue"
@@ -40,7 +40,7 @@ export default function LeftStatic(){
                                 animate={{y:0}}
                                 transition={transition.two}
                                 whileHover={{y:-5, color:"#60f7d3"}}>
-                                    <button><AiFillLinkedin size={'1.5em'}/></button>
+                                    <button><a href="https://www.linkedin.com/in/eduard-bede-168572164/" ><AiFillLinkedin size={'1.5em'}/></a></button>
                             </motion.li>
 
                             <motion.li className="active:text-mySecondBlue"
@@ -48,7 +48,7 @@ export default function LeftStatic(){
                                 animate={{y:0}}
                                 transition={transition.three}
                                 whileHover={{y:-5, color:"#60f7d3"}}>
-                                    <button><AiOutlineInstagram size={'1.5em'}/></button>
+                                    <button><a href="https://www.instagram.com/bde05/"><AiOutlineInstagram size={'1.5em'}/></a></button>
                              </motion.li>
                         </ul>
                     </div>

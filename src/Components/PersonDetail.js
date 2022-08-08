@@ -5,7 +5,7 @@ export default function PersonDetail(props){
   const selfText = "Currently, I`m focused on learning to code, my newly discovered passion."
 
   return (
-    <div ref={props.homeScroll} className="mareDiv bg-myBlue md:px-36 px-10 flex flex-col justify-center items-start min-h-screen landscape:pt-28">
+    <div ref={props.homeScroll} className="mareDiv bg-myBlue md:px-36 px-10 pt-12 md:pt-0 flex flex-col justify-center items-start min-h-screen landscape:pt-28">
       <div className="flex flex-col gap-10 landscape:px-0">
 
           <motion.p initial={{y:20,opacity:0}}

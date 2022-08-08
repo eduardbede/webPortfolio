@@ -8,7 +8,7 @@ export default function Footer(){
                 <p>Build by Eduard Bede</p>
                 <div>
                     {an}
-                    <a href="https://github.com/eduardbede" className="underline decoration-mySecondBlue no_highlights">Visit GitHub</a>
+                    {/* <a href="https://github.com/eduardbede" className="underline decoration-mySecondBlue no_highlights">Visit GitHub</a> */}
                 </div>
                 
               </footer>

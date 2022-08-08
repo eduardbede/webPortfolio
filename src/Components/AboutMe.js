@@ -12,7 +12,7 @@ export default function AboutMe(props){
 
     const technologiiText = `Here are some technologies that I learned:`;
 
-    const skills=['HTML',"CSS",'JavaScript(ES6)','Tailwind','React.JS'];
+    const skills=['HTML',"CSS",'JavaScript(ES6)','React.JS','Tailwind CSS', 'Git Version-Control', 'Framer Motion library'];
 
     const mapSkills = skills.map((el, index)=>{
         return <li className="text-myGrey" key={index}><GoTriangleRight color={"#60f7d3"}/>{el}</li>
@@ -20,7 +20,7 @@ export default function AboutMe(props){
 
     return(
     <>
-        <div ref={props.aboutMeScroll} className="bg-myBlue min-h-screen flex flex-col justify-center md:px-36 px-10 pt-24 md:pt-10">
+        <div ref={props.aboutMeScroll} className="bg-myBlue min-h-screen flex flex-col justify-center px-10 md:px-36 pt-24 md:pt-10 ">
             <motion.div 
                     initial={{x:-40, opacity: 0 }}
                     whileInView={{x:0, opacity: 1 }}

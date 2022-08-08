@@ -34,11 +34,11 @@ import calculator from '../../img/Calculator/Calculator.png';
 import calculator_1 from '../../img/Calculator/Calculator_1.png';
 import calculator_mobile from '../../img/Calculator/Calculator_mobile.png';
 
-import signInLogIn from '../../img/SignInLogIn/SignInLogIn.png';
-import signInLogIn_1 from '../../img/SignInLogIn/SignInLogIn_1.png';
-import signInLogIn_2 from '../../img/SignInLogIn/SignInLogIn_2.png';
-import signInLogIn_mobile from '../../img/SignInLogIn/SignInLogIn_mobile.png';
-import signInLogIn_mobile_1 from '../../img/SignInLogIn/SignInLogIn_mobile_1.png';
+import signInLogIn from '../../img/SignInLogIn/SignInLogIn.jpg';
+import signInLogIn_1 from '../../img/SignInLogIn/SignInLogIn_1.jpg';
+import signInLogIn_2 from '../../img/SignInLogIn/SignInLogIn_2.jpg';
+import signInLogIn_mobile from '../../img/SignInLogIn/SignInLogIn_mobile.jpg';
+import signInLogIn_mobile_1 from '../../img/SignInLogIn/SignInLogIn_mobile_1.jpg';
 
 import adminDashboard from '../../img/AdminDashboard/AdminDashboard.png'
 import adminDashboard_mobile from '../../img/AdminDashboard/AdminDashboard_mobile.png'
@@ -212,7 +212,7 @@ const projects=[
                original: signInLogIn_mobile_1,
             },
           ],
-          link: "https://eduardbede.github.io/calculator/",
+          link: "https://eduardbede.github.io/signinpage/",
           text : <div>Sign In and Log In pages build with <span className='text-mySecondBlue'>JavaScript</span>. Features : you can make account, 
           and login with the new account created.</div>,
           },
