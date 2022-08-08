@@ -44,20 +44,13 @@ import adminDashboard from '../../img/AdminDashboard/AdminDashboard.png'
 import adminDashboard_mobile from '../../img/AdminDashboard/AdminDashboard_mobile.png'
 
 import etchASketch from '../../img/EtchASketch/EtchASketch.png';
-import etchASketch_1 from '../../img/EtchASketch/EtchASketch_1.png'
+import etchASketch_1 from '../../img/EtchASketch/EtchASketch_1.png';
+
 
 export default function ProjectsData(){
       
 const projects=[
-  {
-    id:1,
-    title:"Web Dev Portfolio",
-    link: "https://eduardbede.github.io/webPortofolio/",
-    text : <div>Portfolio presentation site build <span className='text-mySecondBlue'>React.JS</span> and <span className='text-mySecondBlue'>Tailwind</span>. 
-            </div>
-    },
-
-
+  
     {
         id:2,
         title: "Weather App",

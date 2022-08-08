@@ -1,1 +1,1 @@
-Web Portofolio site build with ReactJS and Tailwind.
+Web Portfolio site build with ReactJS and Tailwind.
