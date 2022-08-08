@@ -170,8 +170,8 @@ const projects=[
             },
           ],
           link: "https://eduardbede.github.io/rock-paper-scissors/",
-          text : <div>Rock Paper Scissors is a fun game build with <span className='text-mySecondBlue'>JavaScript</span>.Features : has scoreboard, what you select,
-                      what computer select, who wins.</div>,
+          text : <div>Rock Paper Scissors is a fun game build with <span className='text-mySecondBlue'>JavaScript</span>.Features : has scoreboard, it shows what we selected, 
+                      what computer selected and who wins.</div>,
           },
 
           {
