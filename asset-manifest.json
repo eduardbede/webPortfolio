@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/webPortfolio/static/css/main.9830c75c.css",
-    "main.js": "/webPortfolio/static/js/main.3e7204cd.js",
+    "main.js": "/webPortfolio/static/js/main.63ae6e74.js",
     "static/media/EtchASketch_1.png": "/webPortfolio/static/media/EtchASketch_1.c3f360333fd0d0da6b15.png",
     "static/media/EtchASketch.png": "/webPortfolio/static/media/EtchASketch.30f231c327aeaa0a06c8.png",
     "static/media/SignInLogIn.jpg": "/webPortfolio/static/media/SignInLogIn.e4a7e0c33bb4f2641015.jpg",
@@ -19,7 +19,7 @@
     "static/media/TicTacToe.jpg": "/webPortfolio/static/media/TicTacToe.da715199ae14ea5a9956.jpg",
     "static/media/PhoneService_2.jpg": "/webPortfolio/static/media/PhoneService_2.4ee5f9dde23a2701d3fd.jpg",
     "static/media/RockPaperScissors_mobile.png": "/webPortfolio/static/media/RockPaperScissors_mobile.4d871e3090a05be56d65.png",
-    "static/media/Bede Eduard-IoanEn.pdf": "/webPortfolio/static/media/Bede Eduard-IoanEn.ffca1165b5f09a1c91b7.pdf",
+    "static/media/resume.pdf": "/webPortfolio/static/media/resume.ffca1165b5f09a1c91b7.pdf",
     "static/media/RockPaperScissors_mobile_1.png": "/webPortfolio/static/media/RockPaperScissors_mobile_1.7c31e522360147a2f966.png",
     "static/media/PhoneService.jpg": "/webPortfolio/static/media/PhoneService.6459c7dbc79abce99749.jpg",
     "static/media/SignInLogIn_mobile_1.jpg": "/webPortfolio/static/media/SignInLogIn_mobile_1.e40dedaf7221add9f94f.jpg",
@@ -40,10 +40,10 @@
     "static/media/Calculator_mobile.png": "/webPortfolio/static/media/Calculator_mobile.4fda3348762576cf1e69.png",
     "index.html": "/webPortfolio/index.html",
     "main.9830c75c.css.map": "/webPortfolio/static/css/main.9830c75c.css.map",
-    "main.3e7204cd.js.map": "/webPortfolio/static/js/main.3e7204cd.js.map"
+    "main.63ae6e74.js.map": "/webPortfolio/static/js/main.63ae6e74.js.map"
   },
   "entrypoints": [
     "static/css/main.9830c75c.css",
-    "static/js/main.3e7204cd.js"
+    "static/js/main.63ae6e74.js"
   ]
 }
