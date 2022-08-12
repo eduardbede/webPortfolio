@@ -45,7 +45,8 @@ export default function NavLinks(props){
                                transition={{ delay: 0.4 }} 
                                className="no_highlights resumeButton text-mySecondBlue border border-mySecondBlue
                                          rounded-lg h-10 w-20 hover:bg-buttonHoverColor text-lg active:text-mySecondBlue">
-                                resume</motion.button>
+                               <a href={require("../../src/resume/resume.pdf")} download="Bede Eduard-IoanEN">resume</a>
+                               </motion.button>
             </li>
            
         </motion.ul>

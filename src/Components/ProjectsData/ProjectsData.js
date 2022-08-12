@@ -69,10 +69,11 @@ const projects=[
             },
           ],
         link: "https://eduardbede.github.io/weatherApp/",
-        text : <div>Weather App build with <span className='text-mySecondBlue'>React.JS</span> and <span className='text-mySecondBlue'>Tailwind</span>. 
-                Features : you can search any location, 
-                timezone changes automatically depending on where the application is accessed, automatically get location based on IP address,
-                convert degrees from Celsius to Fahrenheit.</div>
+        text : <div>Weather App is built with <span className='text-mySecondBlue'>React.JS</span> and <span className='text-mySecondBlue'>Tailwind</span>. 
+                Features include the ability to search for any location; 
+                automatically changing timezones based on where the application is accessed; 
+                automatically determining location based on IP address; 
+                and converting degrees from Celsius to Fahrenheit.</div>
         },
 
         {
@@ -128,10 +129,11 @@ const projects=[
             },
           ],
         link: "https://eduardbede.github.io/bookLibrary/",
-        text : <div>Book Library app build with <span className='text-mySecondBlue'>JavaScript</span>. Features : you can add the books you want to read, 
-                    you can edit the added books, 
-                calculate the total number of books added, the number of pages read, 
-                the number of books read and and of course you can delete any book you want. </div>,
+        text : <div>The Book Library app is built with <span className='text-mySecondBlue'>JavaScript</span>. You can add the books you want to read; 
+                    you can edit the added books; 
+                    calculate the total number of books added; 
+                    the number of pages read; the number of books read; 
+                    and, of course, you can delete any book you want.</div>,
         },
 
         {
@@ -150,8 +152,9 @@ const projects=[
           
         ],
         link: "https://eduardbede.github.io/ticTacToe/",
-        text : <div>Tic-Tac-Toe game build with <span className='text-mySecondBlue'>JavaScript</span>. Features : you can play VS Computer or VS Player, 
-                    you can select if you want to be with X or O and if computer or player make first move, scoreboard .</div>,
+        text : <div>The Tic-Tac-Toe game is built with <span className='text-mySecondBlue'>JavaScript</span>. You can play VS Computer or VS Player, choose whether you want to be with X or O, 
+                    and whether the computer or player makes the first move. 
+                    There is also a scoreboard.</div>,
         },
 
         {
@@ -172,7 +175,8 @@ const projects=[
             },
           ],
           link: "https://eduardbede.github.io/rock-paper-scissors/",
-          text : <div>Rock Paper Scissors is a fun game build with <span className='text-mySecondBlue'>JavaScript</span>.Features : has scoreboard, it shows what we selected, 
+          text : <div>Rock, Paper, Scissors is a fun game built with <span className='text-mySecondBlue'>JavaScript</span>.
+                      It has scoreboard, shows what we selected, 
                       what computer selected and who wins.</div>,
           },
 
@@ -191,7 +195,7 @@ const projects=[
               },
             ],
             link: "https://eduardbede.github.io/calculator/",
-            text : <div>Calculator build with <span className='text-mySecondBlue'>JavaScript</span>. Features : you can do any calculation you want, it's a daily help.</div>,
+            text : <div>The Calculator is built with <span className='text-mySecondBlue'>JavaScript</span>. Features : you can do any calculation you want, it's a daily help.</div>,
           },
 
           {
@@ -215,8 +219,8 @@ const projects=[
             },
           ],
           link: "https://eduardbede.github.io/signinpage/",
-          text : <div>Sign In and Log In pages build with <span className='text-mySecondBlue'>JavaScript</span>. Features : you can make account, 
-          and login with the new account created.</div>,
+          text : <div>Sign In and Log In pages are built with <span className='text-mySecondBlue'>JavaScript</span>. 
+                      You can create an account and login with the new account you created.</div>,
           },
 
           {
@@ -247,8 +251,8 @@ const projects=[
             },
           ],
           link: "https://eduardbede.github.io/etch-a-sketch/",
-          text : <div>Etch A Sketch build with <span className='text-mySecondBlue'>HTML</span>, <span className='text-mySecondBlue'>CSS</span> and <span className='text-mySecondBlue'>JavaScript</span>. 
-                      This little project was one of the first projects done in javascript. It was a challenge that I successfully overcame!
+          text : <div>Etch A Sketch is built with<span className='text-mySecondBlue'>HTML</span>, <span className='text-mySecondBlue'>CSS</span> and <span className='text-mySecondBlue'>JavaScript</span>. 
+                      This little project was one of the first projects done in JavaScript. It was a challenge that I successfully overcame!
                       Features : you can select the size of the board, color and can clean the board.</div>,
             },
         
