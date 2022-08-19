@@ -46,12 +46,40 @@ import adminDashboard_mobile from '../../img/AdminDashboard/AdminDashboard_mobil
 import etchASketch from '../../img/EtchASketch/EtchASketch.png';
 import etchASketch_1 from '../../img/EtchASketch/EtchASketch_1.png';
 
+import moonPhase from '../../img/moonPhase/moonPhase.jpg';
+import moonPhase_1 from '../../img/moonPhase/moonPhase_1.jpg';
+import moonPhase_mobile_1 from '../../img/moonPhase/moonPhase_mobile.png';
+import moonPhase_mobile_2 from '../../img/moonPhase/moonPhase_mobile_1.png';
 
 export default function ProjectsData(){
       
 const projects=[
+          {
+            id:1,
+            title: "Moon Phase Application",
+            images:[
+                {
+                  original: moonPhase,
+                },
+                {
+                  original: moonPhase_1,
+                },
+                {
+                  original: moonPhase_mobile_1,
+                },
+                {
+                  original: moonPhase_mobile_2,
+                },
+              ],
+            link: "https://eduardbede.github.io/moonPhase/",
+            text : <div>Moon Phase Application is built with <span className='text-mySecondBlue'>React.JS</span>, <span className='text-mySecondBlue'>Tailwind</span> and
+                    <span className='text-mySecondBlue'> Luxon</span> for time format.
+                    I like the moon so much that it influences my life. It automatically shows you the current moon, when the new moon will be, and when the next full moon will be.
+                    I have implemented a calendar so that we can see what the phases of the moon will be in the desired period.
+                    </div>
+            },
   
-    {
+      {
         id:2,
         title: "Weather App",
         images:[
