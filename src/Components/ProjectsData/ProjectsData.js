@@ -106,7 +106,7 @@ const projects=[
 
         {
         id:3,
-        title: "Phone Service And Sales",
+        title: "Phone Service And E-Commerce",
         images:[
                 {
                   original: phoneServiceAndSales,
@@ -279,7 +279,7 @@ const projects=[
             },
           ],
           link: "https://eduardbede.github.io/etch-a-sketch/",
-          text : <div>Etch A Sketch is built with<span className='text-mySecondBlue'>HTML</span>, <span className='text-mySecondBlue'>CSS</span> and <span className='text-mySecondBlue'>JavaScript</span>. 
+          text : <div>Etch A Sketch is built with <span className='text-mySecondBlue'> HTML</span>, <span className='text-mySecondBlue'>CSS</span> and <span className='text-mySecondBlue'>JavaScript</span>. 
                       This little project was one of the first projects done in JavaScript. It was a challenge that I successfully overcame!
                       Features : you can select the size of the board, color and can clean the board.</div>,
             },
