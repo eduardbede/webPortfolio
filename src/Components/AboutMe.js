@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { AiFillHtml5 } from "react-icons/ai";
 import { FaCss3Alt, FaReact, FaGitAlt, FaGithub, FaBootstrap } from "react-icons/fa";
 import { SiJavascript, SiFramer } from "react-icons/si";
-import { SiTailwindcss, SiVisualstudiocode } from "react-icons/si";
+import { SiTailwindcss, SiVisualstudiocode, SiReactrouter } from "react-icons/si";
 
 export default function AboutMe(props){
     const firstName = "Bede";
@@ -64,6 +64,11 @@ export default function AboutMe(props){
                     {
                     skill: 'VS Code',
                     icon : <SiVisualstudiocode size={'1.2em'} color={"#3ea6eb"}/>
+                    },
+
+                    {
+                    skill: 'React Router',
+                    icon : <SiReactrouter size={'1.2em'} color={"#3ea6eb"}/>
                     }
         ];
 

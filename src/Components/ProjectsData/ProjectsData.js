@@ -51,9 +51,54 @@ import moonPhase_1 from '../../img/moonPhase/moonPhase_1.jpg';
 import moonPhase_mobile_1 from '../../img/moonPhase/moonPhase_mobile.png';
 import moonPhase_mobile_2 from '../../img/moonPhase/moonPhase_mobile_1.png';
 
+import eCommerce from '../../img/eCommerce/eCommerce.jpg'
+import eCommerce_1 from '../../img/eCommerce/eCommerce_1.jpg'
+import eCommerce_2 from '../../img/eCommerce/eCommerce_2.jpg'
+import eCommerce_3 from '../../img/eCommerce/eCommerce_3.jpg'
+import eCommerce_mobile from '../../img/eCommerce/eCommerce_mobile.jpg'
+import eCommerce_mobile_1 from '../../img/eCommerce/eCommerce_mobile_1.jpg'
+import eCommerce_mobile_2 from '../../img/eCommerce/eCommerce_mobile_2.jpg'
+import eCommerce_mobile_3 from '../../img/eCommerce/eCommerce_mobile_3.jpg'
+
 export default function ProjectsData(){
       
 const projects=[
+          {
+            id:11,
+            title: "E-Commerce Web",
+            images:[
+                {
+                  original: eCommerce,
+                },
+                {
+                  original: eCommerce_1,
+                },
+                {
+                  original: eCommerce_2,
+                },
+                {
+                  original: eCommerce_3,
+                },
+                {
+                  original: eCommerce_mobile,
+                },
+                {
+                  original: eCommerce_mobile_1,
+                },
+                {
+                  original: eCommerce_mobile_2,
+                },
+                {
+                  original: eCommerce_mobile_3,
+                },
+              ],
+            link: "https://eduardbede.github.io/eCommerce/",
+            text : <div>E-Commerce Application is built with <span className='text-mySecondBlue'>React.JS</span>. 
+                    Most complex project of mine. You can add products to the cart, filter them by category name, modify the quantity of products and delete them.
+                    Mobile responsiveness.
+                    </div>
+            },
+
           {
             id:1,
             title: "Moon Phase Application",
