@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/webPortfolio/static/css/main.9830c75c.css",
-    "main.js": "/webPortfolio/static/js/main.cdf3a62f.js",
+    "main.css": "/webPortfolio/static/css/main.a735ed17.css",
+    "main.js": "/webPortfolio/static/js/main.bd3fae2d.js",
     "static/media/EtchASketch_1.png": "/webPortfolio/static/media/EtchASketch_1.c3f360333fd0d0da6b15.png",
     "static/media/EtchASketch.png": "/webPortfolio/static/media/EtchASketch.30f231c327aeaa0a06c8.png",
-    "static/media/resume.pdf": "/webPortfolio/static/media/resume.d89c23d1bbbfacf5a48e.pdf",
+    "static/media/resume.pdf": "/webPortfolio/static/media/resume.8cec071e0ddec7a8914e.pdf",
     "static/media/moonPhase_mobile_1.png": "/webPortfolio/static/media/moonPhase_mobile_1.cd80585bfff3d4ce89e6.png",
     "static/media/SignInLogIn.jpg": "/webPortfolio/static/media/SignInLogIn.e4a7e0c33bb4f2641015.jpg",
     "static/media/SignInLogIn_1.jpg": "/webPortfolio/static/media/SignInLogIn_1.18d0ae56e0e65dd752cb.jpg",
@@ -16,9 +16,11 @@
     "static/media/moonPhase.jpg": "/webPortfolio/static/media/moonPhase.d9646498f7e4460dd662.jpg",
     "static/media/PhoneService_4.jpg": "/webPortfolio/static/media/PhoneService_4.3c6e5342973deb1f4bce.jpg",
     "static/media/RockPaperScissors.png": "/webPortfolio/static/media/RockPaperScissors.814d84e55b91ccf53e53.png",
+    "static/media/eCommerce.jpg": "/webPortfolio/static/media/eCommerce.47a2aff650f875e36f72.jpg",
     "static/media/weatherApp.jpg": "/webPortfolio/static/media/weatherApp.c072fe6f35736f76432c.jpg",
     "static/media/BookLibrary_1.jpg": "/webPortfolio/static/media/BookLibrary_1.677fdd95fe51eb752a09.jpg",
     "static/media/weatherApp_1.jpg": "/webPortfolio/static/media/weatherApp_1.db8a966cd148cb884f72.jpg",
+    "static/media/eCommerce_2.jpg": "/webPortfolio/static/media/eCommerce_2.de50b328b88f5bc4a5fb.jpg",
     "static/media/TicTacToe_1.jpg": "/webPortfolio/static/media/TicTacToe_1.ec2a955802eb6fae2665.jpg",
     "static/media/PhoneService_5.jpg": "/webPortfolio/static/media/PhoneService_5.2b047e8f82b86c2ff7d5.jpg",
     "static/media/TicTacToe.jpg": "/webPortfolio/static/media/TicTacToe.da715199ae14ea5a9956.jpg",
@@ -26,7 +28,9 @@
     "static/media/RockPaperScissors_mobile.png": "/webPortfolio/static/media/RockPaperScissors_mobile.4d871e3090a05be56d65.png",
     "static/media/RockPaperScissors_mobile_1.png": "/webPortfolio/static/media/RockPaperScissors_mobile_1.7c31e522360147a2f966.png",
     "static/media/PhoneService.jpg": "/webPortfolio/static/media/PhoneService.6459c7dbc79abce99749.jpg",
+    "static/media/eCommerce_1.jpg": "/webPortfolio/static/media/eCommerce_1.ccbe7a237b2c46a67c22.jpg",
     "static/media/SignInLogIn_mobile_1.jpg": "/webPortfolio/static/media/SignInLogIn_mobile_1.e40dedaf7221add9f94f.jpg",
+    "static/media/eCommerce_3.jpg": "/webPortfolio/static/media/eCommerce_3.f2fc36f5ed10466b6d2d.jpg",
     "static/media/PhoneService_1.jpg": "/webPortfolio/static/media/PhoneService_1.22a5f68925f4ed1c0876.jpg",
     "static/media/BookLibrary.jpg": "/webPortfolio/static/media/BookLibrary.497e32c6ec110520de6f.jpg",
     "static/media/weatherApp_2.jpg": "/webPortfolio/static/media/weatherApp_2.97a6df7db2db522b9592.jpg",
@@ -39,15 +43,19 @@
     "static/media/Calculator_1.png": "/webPortfolio/static/media/Calculator_1.f30e00375f5e826e9da8.png",
     "static/media/Calculator.png": "/webPortfolio/static/media/Calculator.07682b86a154f23a8008.png",
     "static/media/PhoneService_mobile_1.jpg": "/webPortfolio/static/media/PhoneService_mobile_1.ae2d6f5d5855238acf43.jpg",
+    "static/media/eCommerce_mobile_2.jpg": "/webPortfolio/static/media/eCommerce_mobile_2.b77bd4d6f5ae69f78687.jpg",
     "static/media/BookLibrary_mobile.jpg": "/webPortfolio/static/media/BookLibrary_mobile.342c9c28d8dc24e305d9.jpg",
     "static/media/PhoneService_mobile_2.jpg": "/webPortfolio/static/media/PhoneService_mobile_2.a49c3050ffeee687c143.jpg",
+    "static/media/eCommerce_mobile.jpg": "/webPortfolio/static/media/eCommerce_mobile.eb38c38525f909154e37.jpg",
+    "static/media/eCommerce_mobile_1.jpg": "/webPortfolio/static/media/eCommerce_mobile_1.313f1836e47334dbabcc.jpg",
+    "static/media/eCommerce_mobile_3.jpg": "/webPortfolio/static/media/eCommerce_mobile_3.6f1028242d72b8cdd24a.jpg",
     "static/media/Calculator_mobile.png": "/webPortfolio/static/media/Calculator_mobile.4fda3348762576cf1e69.png",
     "index.html": "/webPortfolio/index.html",
-    "main.9830c75c.css.map": "/webPortfolio/static/css/main.9830c75c.css.map",
-    "main.cdf3a62f.js.map": "/webPortfolio/static/js/main.cdf3a62f.js.map"
+    "main.a735ed17.css.map": "/webPortfolio/static/css/main.a735ed17.css.map",
+    "main.bd3fae2d.js.map": "/webPortfolio/static/js/main.bd3fae2d.js.map"
   },
   "entrypoints": [
-    "static/css/main.9830c75c.css",
-    "static/js/main.cdf3a62f.js"
+    "static/css/main.a735ed17.css",
+    "static/js/main.bd3fae2d.js"
   ]
 }
