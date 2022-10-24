@@ -16,62 +16,60 @@ export default function AboutMe(props){
                     Below I present some projects made by me during learning process.`;
 
     const technologiiText = `Here are some technologies that I learned:`;
+    
+    const skills=[
+        {
+            skill: 'React.JS',
+            icon : <FaReact size={'1.2em'} color={"#5FD6F6"}/>
+        },
+        {
+            skill: "CSS",
+            icon : <FaCss3Alt size={'1.2em'} color={"#254BDD"}/>
+        },
+        {
+            skill: 'JavaScript(ES6)',
+            icon : <SiJavascript size={'1.2em'} color={"#EFD81D"}/>
+        },
+        
+        {
+            skill: 'HTML',
+            icon : <AiFillHtml5 size={'1.2em'} color={"#DD4B25"}/>
+        },
+        {
+            skill: 'Tailwind CSS',
+            icon : <SiTailwindcss size={'1.2em'} color={"#38BDF8"}/>
+        },
+       
+        {
+            skill: 'Bootstap',
+            icon : <FaBootstrap size={'1.2em'} color={"#6e10ee"}/>
+        },
 
-    const skills=[{
-                    skill: 'HTML',
-                    icon : <AiFillHtml5 size={'1.2em'} color={"#DD4B25"}/>
-                    },
+        {
+            skill: 'Git Version-Control',
+            icon : <FaGitAlt size={'1.2em'} color={"#E84E31"}/>
+        },
+        
+        {
+            skill: 'GitHub',
+            icon : <FaGithub size={'1.2em'} color={"#ffffff"}/>
+        },
+        {
+            skill: 'React Router',
+            icon : <SiReactrouter size={'1.2em'} color={"#F44250"}/>
+        },
+        {
+            skill: 'Framer Motion',
+            icon : <SiFramer size={'1.2em'} color={"#DD369C"}/>
+        },
 
-                    {
-                    skill: "CSS",
-                    icon : <FaCss3Alt size={'1.2em'} color={"#254BDD"}/>
-                    },
-                    
-                    {
-                    skill: 'JavaScript(ES6)',
-                    icon : <SiJavascript size={'1.2em'} color={"#EFD81D"}/>
-                    },
-                    
-                    {
-                    skill: 'React.JS',
-                    icon : <FaReact size={'1.2em'} color={"#5FD6F6"}/>
-                    },
-                    
-                    {
-                    skill: 'Tailwind CSS',
-                    icon : <SiTailwindcss size={'1.2em'} color={"#38BDF8"}/>
-                    },
-                     
-                    {
-                    skill: 'Bootstap',
-                    icon : <FaBootstrap size={'1.2em'} color={"#6e10ee"}/>
-                    },
+        {
+            skill: 'VS Code',
+            icon : <SiVisualstudiocode size={'1.2em'} color={"#3ea6eb"}/>
+        },
 
-                    {
-                    skill: 'Git Version-Control',
-                    icon : <FaGitAlt size={'1.2em'} color={"#E84E31"}/>
-                    },
-                    
-                    {
-                    skill: 'GitHub',
-                    icon : <FaGithub size={'1.2em'} color={"#ffffff"}/>
-                    },
-                    
-                    {
-                    skill: 'Framer Motion',
-                    icon : <SiFramer size={'1.2em'} color={"#DD369C"}/>
-                    },
-
-                    {
-                    skill: 'VS Code',
-                    icon : <SiVisualstudiocode size={'1.2em'} color={"#3ea6eb"}/>
-                    },
-
-                    {
-                    skill: 'React Router',
-                    icon : <SiReactrouter size={'1.2em'} color={"#3ea6eb"}/>
-                    }
-        ];
+        
+    ];
 
     const mapSkills = skills.map((el, index)=>{
         return <li className="text-myGrey" key={index}><VscCircleFilled color={"#60f7d3"}/>{el.icon}{el.skill}</li>
