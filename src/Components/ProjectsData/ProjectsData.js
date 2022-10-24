@@ -357,12 +357,14 @@ const mapProjects = projects.map(el=>{
                             viewport={{ once: true }}
                             className="projectText text-myGreySecond flex flex-col items-center md:w-3/4 text-xl md:text-2xl gap-4">
                     {el.text}
-                    <motion.a
+                    <motion.a 
                               initial={{scale:0.5}}
                               whileInView={{scale:1}}
                               transition={{duration:1}}
                               viewport={{ once: true }}
-                              href={el.link} className="text-myGrey no_highlights flex items-center gap-2 font-bold text-xl"
+                              href={el.link} 
+                              className="text-myGrey no_highlights flex items-center gap-2 font-bold text-xl"
+                              target="_blank"
                       > Click to see this project!<VscGithubInverted size={'1em'}/>
                     </motion.a>
                 </motion.div>
