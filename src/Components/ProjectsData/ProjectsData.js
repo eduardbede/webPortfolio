@@ -94,7 +94,7 @@ const projects=[
               ],
             link: "https://eduardbede.github.io/eCommerce/",
             text : <div>E-Commerce Application is built with <span className='text-mySecondBlue'>React.JS</span>. 
-                    Most complex project of mine. You can add products to the cart, filter them by category name, modify the quantity of products and delete them.
+                    You can add products to the cart, filter them by category name, modify the quantity of products and delete them.
                     Mobile responsiveness.
                     </div>
             },
