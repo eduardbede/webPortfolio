@@ -1,4 +1,5 @@
-import { GoTriangleRight } from "react-icons/go";
+/* import { GoTriangleRight } from "react-icons/go"; */
+import { VscCircleFilled } from "react-icons/vsc";
 import { motion } from "framer-motion";
 import { AiFillHtml5 } from "react-icons/ai";
 import { FaCss3Alt, FaReact, FaGitAlt, FaGithub, FaBootstrap } from "react-icons/fa";
@@ -12,7 +13,7 @@ export default function AboutMe(props){
     const text = `Hello! My name is ${firstName} ${lastName}!  Since I discovered programming, I have discovered a new passion for developing web pages and applications! 
                     The way it makes think fascinated me from the first lines written. 
                     Since then, I've worked hard to improve myself and learn new programming skills every day. 
-                    Below I present some projects made by me during self-taught learning process.`;
+                    Below I present some projects made by me during learning process.`;
 
     const technologiiText = `Here are some technologies that I learned:`;
 
@@ -73,7 +74,7 @@ export default function AboutMe(props){
         ];
 
     const mapSkills = skills.map((el, index)=>{
-        return <li className="text-myGrey" key={index}><GoTriangleRight color={"#60f7d3"}/>{el.icon}{el.skill}</li>
+        return <li className="text-myGrey" key={index}><VscCircleFilled color={"#60f7d3"}/>{el.icon}{el.skill}</li>
     })
 
     return(
