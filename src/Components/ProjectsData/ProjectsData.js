@@ -106,7 +106,7 @@ const projects=[
               },
             ],
           link: "https://eduardbede.github.io/cryptoApp",
-          text : <div>Crypto App that is build with <span className='text-mySecondBlue'>React.JS</span> and <span className='text-mySecondBlue'>Tailwind.</span> It's a 
+          text : <div>Crypto App is build with <span className='text-mySecondBlue'>React.JS</span> and <span className='text-mySecondBlue'>Tailwind.</span> It's a 
                   TreeMap chart where we can change the size of the blocks depending on the selected parameters. Also we can sort coins by multiple parameters,
                   search for any coin we want, and we can see the evolution of the price in the last 30 days on a line chart.
                   </div>
