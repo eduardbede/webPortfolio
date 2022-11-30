@@ -60,9 +60,57 @@ import eCommerce_mobile_1 from '../../img/eCommerce/eCommerce_mobile_1.jpg'
 import eCommerce_mobile_2 from '../../img/eCommerce/eCommerce_mobile_2.jpg'
 import eCommerce_mobile_3 from '../../img/eCommerce/eCommerce_mobile_3.jpg'
 
+import cryptoApp from '../../img/CryptoApp/cryptoApp.png'
+import cryptoApp_1 from '../../img/CryptoApp/cryptoApp_1.png'
+import cryptoApp_2 from '../../img/CryptoApp/cryptoApp_2.png'
+import cryptoApp_3 from '../../img/CryptoApp/cryptoApp_3.png'
+import cryptoApp_4 from '../../img/CryptoApp/cryptoApp_4.png'
+import cryptoApp_5 from '../../img/CryptoApp/cryptoApp_5.png'
+import cryptoApp_mobile from '../../img/CryptoApp/cryptoApp_mobile.png'
+import cryptoApp_mobile_1 from '../../img/CryptoApp/cryptoApp_mobile_1.png'
+import cryptoApp_mobile_2 from '../../img/CryptoApp/cryptoApp_mobile_2.png'
+
 export default function ProjectsData(){
       
 const projects=[
+        {
+          id:12,
+          title: "Crypto App",
+          images:[
+              {
+                original: cryptoApp,
+              },
+              {
+                original: cryptoApp_1,
+              },
+              {
+                original: cryptoApp_2,
+              },
+              {
+                original: cryptoApp_3,
+              },
+              {
+                original: cryptoApp_4,
+              },
+              {
+                original: cryptoApp_5,
+              },
+              {
+                original: cryptoApp_mobile,
+              },
+              {
+                original: cryptoApp_mobile_1,
+              },
+              {
+                original: cryptoApp_mobile_2,
+              },
+            ],
+          link: "https://eduardbede.github.io/cryptoApp",
+          text : <div>Crypto App that is build with <span className='text-mySecondBlue'>React.JS</span> and <span className='text-mySecondBlue'>Tailwind.</span> It's a 
+                  TreeMap chart where we can change the size of the blocks depending on the selected parameters. Also we can sort coins by multiple parameters,
+                  search for any coin we want, and we can see the evolution of the price in the last 30 days on a line chart.
+                  </div>
+          },
           {
             id:11,
             title: "E-Commerce Web",
@@ -98,7 +146,6 @@ const projects=[
                     Mobile responsiveness.
                     </div>
             },
-
           {
             id:1,
             title: "Moon Phase Application",
