@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/webPortfolio/static/css/main.a735ed17.css",
-    "main.js": "/webPortfolio/static/js/main.ec637cc6.js",
+    "main.js": "/webPortfolio/static/js/main.ef3a25e5.js",
     "static/media/resume.pdf": "/webPortfolio/static/media/resume.2c4af9486f359e7d560b.pdf",
     "static/media/EtchASketch_1.png": "/webPortfolio/static/media/EtchASketch_1.c3f360333fd0d0da6b15.png",
     "static/media/EtchASketch.png": "/webPortfolio/static/media/EtchASketch.30f231c327aeaa0a06c8.png",
@@ -56,15 +56,16 @@
     "static/media/eCommerce_mobile.jpg": "/webPortfolio/static/media/eCommerce_mobile.eb38c38525f909154e37.jpg",
     "static/media/eCommerce_mobile_1.jpg": "/webPortfolio/static/media/eCommerce_mobile_1.313f1836e47334dbabcc.jpg",
     "static/media/eCommerce_mobile_3.jpg": "/webPortfolio/static/media/eCommerce_mobile_3.6f1028242d72b8cdd24a.jpg",
+    "static/media/cryptoApp_mobile_3.png": "/webPortfolio/static/media/cryptoApp_mobile_3.85c62e2b7e840743de91.png",
     "static/media/Calculator_mobile.png": "/webPortfolio/static/media/Calculator_mobile.4fda3348762576cf1e69.png",
     "static/media/cryptoApp_mobile_1.png": "/webPortfolio/static/media/cryptoApp_mobile_1.8590e585e19efba3d470.png",
     "static/media/cryptoApp_mobile.png": "/webPortfolio/static/media/cryptoApp_mobile.69ef6b6c98990f559754.png",
     "index.html": "/webPortfolio/index.html",
     "main.a735ed17.css.map": "/webPortfolio/static/css/main.a735ed17.css.map",
-    "main.ec637cc6.js.map": "/webPortfolio/static/js/main.ec637cc6.js.map"
+    "main.ef3a25e5.js.map": "/webPortfolio/static/js/main.ef3a25e5.js.map"
   },
   "entrypoints": [
     "static/css/main.a735ed17.css",
-    "static/js/main.ec637cc6.js"
+    "static/js/main.ef3a25e5.js"
   ]
 }
