@@ -69,6 +69,7 @@ import cryptoApp_5 from '../../img/CryptoApp/cryptoApp_5.png'
 import cryptoApp_mobile from '../../img/CryptoApp/cryptoApp_mobile.png'
 import cryptoApp_mobile_1 from '../../img/CryptoApp/cryptoApp_mobile_1.png'
 import cryptoApp_mobile_2 from '../../img/CryptoApp/cryptoApp_mobile_2.png'
+import cryptoApp_mobile_3 from '../../img/CryptoApp/cryptoApp_mobile_3.png'
 
 export default function ProjectsData(){
       
@@ -103,6 +104,9 @@ const projects=[
               },
               {
                 original: cryptoApp_mobile_2,
+              },
+              {
+                original: cryptoApp_mobile_3,
               },
             ],
           link: "https://eduardbede.github.io/cryptoApp",
