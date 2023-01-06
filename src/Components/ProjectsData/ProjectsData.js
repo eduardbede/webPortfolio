@@ -51,25 +51,34 @@ import moonPhase_1 from '../../img/moonPhase/moonPhase_1.jpg';
 import moonPhase_mobile_1 from '../../img/moonPhase/moonPhase_mobile.png';
 import moonPhase_mobile_2 from '../../img/moonPhase/moonPhase_mobile_1.png';
 
-import eCommerce from '../../img/eCommerce/eCommerce.jpg'
-import eCommerce_1 from '../../img/eCommerce/eCommerce_1.jpg'
-import eCommerce_2 from '../../img/eCommerce/eCommerce_2.jpg'
-import eCommerce_3 from '../../img/eCommerce/eCommerce_3.jpg'
-import eCommerce_mobile from '../../img/eCommerce/eCommerce_mobile.jpg'
-import eCommerce_mobile_1 from '../../img/eCommerce/eCommerce_mobile_1.jpg'
-import eCommerce_mobile_2 from '../../img/eCommerce/eCommerce_mobile_2.jpg'
-import eCommerce_mobile_3 from '../../img/eCommerce/eCommerce_mobile_3.jpg'
+import eCommerce from '../../img/eCommerce/eCommerce.jpg';
+import eCommerce_1 from '../../img/eCommerce/eCommerce_1.jpg';
+import eCommerce_2 from '../../img/eCommerce/eCommerce_2.jpg';
+import eCommerce_3 from '../../img/eCommerce/eCommerce_3.jpg';
+import eCommerce_mobile from '../../img/eCommerce/eCommerce_mobile.jpg';
+import eCommerce_mobile_1 from '../../img/eCommerce/eCommerce_mobile_1.jpg';
+import eCommerce_mobile_2 from '../../img/eCommerce/eCommerce_mobile_2.jpg';
+import eCommerce_mobile_3 from '../../img/eCommerce/eCommerce_mobile_3.jpg';
 
-import cryptoApp from '../../img/CryptoApp/cryptoApp.png'
-import cryptoApp_1 from '../../img/CryptoApp/cryptoApp_1.png'
-import cryptoApp_2 from '../../img/CryptoApp/cryptoApp_2.png'
-import cryptoApp_3 from '../../img/CryptoApp/cryptoApp_3.png'
-import cryptoApp_4 from '../../img/CryptoApp/cryptoApp_4.png'
-import cryptoApp_5 from '../../img/CryptoApp/cryptoApp_5.png'
-import cryptoApp_mobile from '../../img/CryptoApp/cryptoApp_mobile.png'
-import cryptoApp_mobile_1 from '../../img/CryptoApp/cryptoApp_mobile_1.png'
-import cryptoApp_mobile_2 from '../../img/CryptoApp/cryptoApp_mobile_2.png'
-import cryptoApp_mobile_3 from '../../img/CryptoApp/cryptoApp_mobile_3.png'
+import cryptoApp from '../../img/CryptoApp/cryptoApp.png';
+import cryptoApp_1 from '../../img/CryptoApp/cryptoApp_1.png';
+import cryptoApp_2 from '../../img/CryptoApp/cryptoApp_2.png';
+import cryptoApp_3 from '../../img/CryptoApp/cryptoApp_3.png';
+import cryptoApp_4 from '../../img/CryptoApp/cryptoApp_4.png';
+import cryptoApp_5 from '../../img/CryptoApp/cryptoApp_5.png';
+import cryptoApp_mobile from '../../img/CryptoApp/cryptoApp_mobile.png';
+import cryptoApp_mobile_1 from '../../img/CryptoApp/cryptoApp_mobile_1.png';
+import cryptoApp_mobile_2 from '../../img/CryptoApp/cryptoApp_mobile_2.png';
+import cryptoApp_mobile_3 from '../../img/CryptoApp/cryptoApp_mobile_3.png';
+
+import f1App from '../../img/f1App/f1App.png';
+import f1App_1 from '../../img/f1App/f1App_1.png';
+import f1App_2 from '../../img/f1App/f1App_2.png';
+import f1App_3 from '../../img/f1App/f1App_3.png';
+import f1App_mobile from '../../img/f1App/f1App_mobile.png';
+import f1App_mobile_1 from '../../img/f1App/f1App_mobile_1.png';
+import f1App_mobile_2 from '../../img/f1App/f1App_mobile_2.png';
+import f1App_mobile_3 from '../../img/f1App/f1App_mobile_3.png';
 
 export default function ProjectsData(){
       
@@ -150,6 +159,41 @@ const projects=[
                     Mobile responsiveness.
                     </div>
             },
+            {
+              id:13,
+              title: "Formula 1 APP",
+              images:[
+                  {
+                    original: f1App,
+                  },
+                  {
+                    original: f1App_1,
+                  },
+                  {
+                    original: f1App_2,
+                  },
+                  {
+                    original: f1App_3,
+                  },
+                  {
+                    original: f1App_mobile,
+                  },
+                  {
+                    original: f1App_mobile_1,
+                  },
+                  {
+                    original: f1App_mobile_2,
+                  },
+                  {
+                    original: f1App_mobile_3,
+                  }
+                ],
+              link: "https://eduardbede.github.io/f1App",
+              text : <div>Formula 1 App build with <span className='text-mySecondBlue'>React.JS</span> and <span className='text-mySecondBlue'>TypeScript.</span> We can see 
+              all the results since the beginning of this beautiful motorsport in 1950. We can also see related data about all the drivers and all the constructors who took part in these races.
+              We have a beautiful dark theme that can be activated at the press of a button. Mobile responsiveness.
+                      </div>
+              },
           {
             id:1,
             title: "Moon Phase Application",

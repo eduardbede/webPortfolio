@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import { AiFillHtml5 } from "react-icons/ai";
 import { FaCss3Alt, FaReact, FaGitAlt, FaGithub, FaBootstrap } from "react-icons/fa";
 import { SiJavascript, SiFramer } from "react-icons/si";
-import { SiTailwindcss, SiVisualstudiocode, SiReactrouter } from "react-icons/si";
+import { SiTailwindcss, SiVisualstudiocode, SiReactrouter, SiTypescript } from "react-icons/si";
 
 export default function AboutMe(props){
     const firstName = "Bede";
@@ -36,15 +36,18 @@ export default function AboutMe(props){
             icon : <AiFillHtml5 size={'1.2em'} color={"#DD4B25"}/>
         },
         {
-            skill: 'Tailwind CSS',
-            icon : <SiTailwindcss size={'1.2em'} color={"#38BDF8"}/>
+            skill: 'TypeScript',
+            icon : <SiTypescript size={'1.2em'} color={"#2F74C0"}/>
         },
-       
         {
             skill: 'Bootstap',
             icon : <FaBootstrap size={'1.2em'} color={"#6e10ee"}/>
         },
-
+        {
+            skill: 'Tailwind CSS',
+            icon : <SiTailwindcss size={'1.2em'} color={"#38BDF8"}/>
+        },
+       
         {
             skill: 'Git Version-Control',
             icon : <FaGitAlt size={'1.2em'} color={"#E84E31"}/>
