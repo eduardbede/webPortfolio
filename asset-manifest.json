@@ -1,10 +1,13 @@
 {
   "files": {
     "main.css": "/webPortfolio/static/css/main.a735ed17.css",
-    "main.js": "/webPortfolio/static/js/main.ef3a25e5.js",
+    "main.js": "/webPortfolio/static/js/main.5411137b.js",
     "static/media/resume.pdf": "/webPortfolio/static/media/resume.2c4af9486f359e7d560b.pdf",
+    "static/media/f1App_3.png": "/webPortfolio/static/media/f1App_3.6f61f9f574d67dc89821.png",
     "static/media/EtchASketch_1.png": "/webPortfolio/static/media/EtchASketch_1.c3f360333fd0d0da6b15.png",
     "static/media/EtchASketch.png": "/webPortfolio/static/media/EtchASketch.30f231c327aeaa0a06c8.png",
+    "static/media/f1App_2.png": "/webPortfolio/static/media/f1App_2.b53cf61b8af3caafb9c7.png",
+    "static/media/f1App_mobile_2.png": "/webPortfolio/static/media/f1App_mobile_2.b4c6e2ec2d2a5ee8bb85.png",
     "static/media/moonPhase_mobile_1.png": "/webPortfolio/static/media/moonPhase_mobile_1.cd80585bfff3d4ce89e6.png",
     "static/media/SignInLogIn.jpg": "/webPortfolio/static/media/SignInLogIn.e4a7e0c33bb4f2641015.jpg",
     "static/media/SignInLogIn_1.jpg": "/webPortfolio/static/media/SignInLogIn_1.18d0ae56e0e65dd752cb.jpg",
@@ -32,8 +35,10 @@
     "static/media/cryptoApp.png": "/webPortfolio/static/media/cryptoApp.1c30adf0d4b63ebda30d.png",
     "static/media/cryptoApp_2.png": "/webPortfolio/static/media/cryptoApp_2.e41e0bb98d5aa2ba88d4.png",
     "static/media/cryptoApp_1.png": "/webPortfolio/static/media/cryptoApp_1.4f8aaacfeed9954d44d3.png",
+    "static/media/f1App_1.png": "/webPortfolio/static/media/f1App_1.fa30b9e3297f25c21135.png",
     "static/media/RockPaperScissors_mobile_1.png": "/webPortfolio/static/media/RockPaperScissors_mobile_1.7c31e522360147a2f966.png",
     "static/media/PhoneService.jpg": "/webPortfolio/static/media/PhoneService.6459c7dbc79abce99749.jpg",
+    "static/media/f1App.png": "/webPortfolio/static/media/f1App.79b61c57b76171255c5f.png",
     "static/media/eCommerce_1.jpg": "/webPortfolio/static/media/eCommerce_1.ccbe7a237b2c46a67c22.jpg",
     "static/media/SignInLogIn_mobile_1.jpg": "/webPortfolio/static/media/SignInLogIn_mobile_1.e40dedaf7221add9f94f.jpg",
     "static/media/eCommerce_3.jpg": "/webPortfolio/static/media/eCommerce_3.f2fc36f5ed10466b6d2d.jpg",
@@ -49,23 +54,26 @@
     "static/media/Calculator_1.png": "/webPortfolio/static/media/Calculator_1.f30e00375f5e826e9da8.png",
     "static/media/Calculator.png": "/webPortfolio/static/media/Calculator.07682b86a154f23a8008.png",
     "static/media/PhoneService_mobile_1.jpg": "/webPortfolio/static/media/PhoneService_mobile_1.ae2d6f5d5855238acf43.jpg",
+    "static/media/f1App_mobile_1.png": "/webPortfolio/static/media/f1App_mobile_1.7461ab5909baf6ca5758.png",
     "static/media/cryptoApp_mobile_2.png": "/webPortfolio/static/media/cryptoApp_mobile_2.50389d0c18aecd3bb992.png",
     "static/media/eCommerce_mobile_2.jpg": "/webPortfolio/static/media/eCommerce_mobile_2.b77bd4d6f5ae69f78687.jpg",
     "static/media/BookLibrary_mobile.jpg": "/webPortfolio/static/media/BookLibrary_mobile.342c9c28d8dc24e305d9.jpg",
     "static/media/PhoneService_mobile_2.jpg": "/webPortfolio/static/media/PhoneService_mobile_2.a49c3050ffeee687c143.jpg",
     "static/media/eCommerce_mobile.jpg": "/webPortfolio/static/media/eCommerce_mobile.eb38c38525f909154e37.jpg",
     "static/media/eCommerce_mobile_1.jpg": "/webPortfolio/static/media/eCommerce_mobile_1.313f1836e47334dbabcc.jpg",
+    "static/media/f1App_mobile_3.png": "/webPortfolio/static/media/f1App_mobile_3.a2154328c45a5852bfd7.png",
     "static/media/eCommerce_mobile_3.jpg": "/webPortfolio/static/media/eCommerce_mobile_3.6f1028242d72b8cdd24a.jpg",
     "static/media/cryptoApp_mobile_3.png": "/webPortfolio/static/media/cryptoApp_mobile_3.85c62e2b7e840743de91.png",
+    "static/media/f1App_mobile.png": "/webPortfolio/static/media/f1App_mobile.ee0a03f2ecff9cd8e734.png",
     "static/media/Calculator_mobile.png": "/webPortfolio/static/media/Calculator_mobile.4fda3348762576cf1e69.png",
     "static/media/cryptoApp_mobile_1.png": "/webPortfolio/static/media/cryptoApp_mobile_1.8590e585e19efba3d470.png",
     "static/media/cryptoApp_mobile.png": "/webPortfolio/static/media/cryptoApp_mobile.69ef6b6c98990f559754.png",
     "index.html": "/webPortfolio/index.html",
     "main.a735ed17.css.map": "/webPortfolio/static/css/main.a735ed17.css.map",
-    "main.ef3a25e5.js.map": "/webPortfolio/static/js/main.ef3a25e5.js.map"
+    "main.5411137b.js.map": "/webPortfolio/static/js/main.5411137b.js.map"
   },
   "entrypoints": [
     "static/css/main.a735ed17.css",
-    "static/js/main.ef3a25e5.js"
+    "static/js/main.5411137b.js"
   ]
 }
