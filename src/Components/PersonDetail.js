@@ -1,7 +1,7 @@
 import { motion } from "framer-motion"
 
 export default function PersonDetail(props){
-  const text = "I am a future self-taught web developer."
+  const text = "I am a future Front-End developer."
   const selfText = "Currently, I`m focused on learning to code, my newly discovered passion."
 
   return (
